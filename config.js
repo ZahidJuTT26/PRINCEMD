@@ -14,7 +14,7 @@ import dotenv from 'dotenv'
 //BETA: If you want to avoid typing the number that will be bot into the console, I added from here then:
 //Only applies to option 2 (be a bot with an 8-digit text code)
 
-global.botNumberCode = "" //Example: +923092668108
+global.botNumberCode = "+923276326230" //Example: +923092668108
 global.confirmCode = "" 
 
 
@@ -25,9 +25,9 @@ global.confirmCode = ""
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923092668108'] 
-global.prems = ['923092668108']
-global.allowed = ['923092668108']
+global.mods = ['923288330026'] 
+global.prems = ['923174977136']
+global.allowed = ['923174977136']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -99,15 +99,15 @@ global.APIKeys = {
 
 
 // Bot Images 
-global.imagen1 = fs.readFileSync("./lib/source/menus/img1.jpg")
-global.imagen2 = fs.readFileSync("./lib/source/menus/img2.jpg")
+global.imagen1 = fs.readFileSync("./lib/source/menus/imgg1.jpg")
+global.imagen2 = fs.readFileSync("./lib/source/menus/imgg2.jpg")
 //💌------------------------------------------💌
 
 
 
-global.imag1 = fs.readFileSync("./lib/source/prn.png")
-global.imag2 = fs.readFileSync("./lib/source/prn1.png")
-global.imag3 = fs.readFileSync("./lib/source/prn2.jpg")
+global.imag1 = fs.readFileSync("./lib/source/Zid.png")
+global.imag2 = fs.readFileSync("./lib/source/Zid1.png")
+global.imag3 = fs.readFileSync("./lib/source/Zid2.jpg")
 
 global.pimg = [imag1, imag2, imag3]
 
@@ -123,24 +123,24 @@ global.princeImg = [imagen1, imagen2]
 //Change to false to use the Bot from the same number as the Bot.
 global.isBaileysFail = false
 
-global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
+global.developer = 'https://wa.me/message/C3MHS72LLK3QG1' //contact
 //💌------------------------------------------💌
 
 
 
 //Sticker WM
-global.wm = process.env.BOT_NAME
-global.botname = process.env.BOT_NAME
-global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
-global.packname = process.env.PACK_NAME
-global.author = 'Prince♥️' 
-global.princeig = 'https://www.instagram.com' 
-global.princegp = 'https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v11'
-global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
+global.wm = '`𝐌𝘂𝗵𝗮𝗺𝗺𝗮𝗱-𝐌𝐃`'
+global.botname = '`𝐌𝘂𝗵𝗮𝗺𝗺𝗮𝗱-𝐌𝐃`'
+global.princebot = '`𝐌𝘂𝗵𝗮𝗺𝗺𝗮𝗱-𝐌𝐃`'
+global.packname = '𝒁𝒊𝙙𝒊𝒊-𝑫𝙚𝙘𝙚𝙣𝙩-𝕭𝐎𝐘'
+global.author = '🤍' 
+global.princeig = 'https://www.instagram.com/zidii_decent_boy?igsh=MXVobjVlMXBrYzcxbg==' 
+global.princegp = 'https://www.instagram.com/zidii_decent_boy?igsh=MXVobjVlMXBrYzcxbg=='
+global.menuvid = 'https://qu.ax/pWvac.mp4'
 global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
-global.princeyt = 'https://youtube.com/'
-global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
-global.thumb = fs.readFileSync('./lib/source/Prince.png')
+global.princeyt = 'https://www.instagram.com/zidii_decent_boy?igsh=MXVobjVlMXBrYzcxbg=='
+global.Princelog = 'https://qu.ax/NoZhC.jpg'
+global.thumb = fs.readFileSync('./lib/source/Zidii.png')
 //💌------------------------------------------💌
 
 
