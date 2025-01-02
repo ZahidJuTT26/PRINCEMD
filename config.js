@@ -129,11 +129,11 @@ global.developer = 'https://wa.me/message/C3MHS72LLK3QG1' //contact
 
 
 //Sticker WM
-global.wm = '𝐌𝘂𝗵𝗮𝗺𝗺𝗮𝗱-𝐌𝐃'
-global.botname = '𝐌𝘂𝗵𝗮𝗺𝗺𝗮𝗱-𝐌𝐃'
-global.princebot = '`𝐌𝘂𝗵𝗮𝗺𝗺𝗮𝗱-𝐌𝐃`'
-global.packname = '𝒁𝒊𝙙𝒊𝒊-𝑫𝙚𝙘𝙚𝙣𝙩-𝕭𝐎𝐘'
-global.author = '🤍' 
+global.wm = '🫀 ⃞kim Meenu⚚💜⃟༆'
+global.botname = '🫀 ⃞kim Meenu⚚💜⃟༆'
+global.princebot = '🫀 ⃞kim Meenu⚚💜⃟༆'
+global.packname = '🫀 ⃞kim Meenu⚚💜⃟༆'
+global.author = '💜⃟' 
 global.princeig = 'https://www.instagram.com/zidii_decent_boy?igsh=MXVobjVlMXBrYzcxbg==' 
 global.princegp = 'https://www.instagram.com/zidii_decent_boy?igsh=MXVobjVlMXBrYzcxbg=='
 global.menuvid = 'https://qu.ax/pWvac.mp4'
