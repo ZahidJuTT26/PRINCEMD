@@ -1,6 +1,7 @@
 {
 "name": "PRINCEMD",
 "version": "2.9.7", 
+"homepage": ".",
 "description": "super advance prince md whatsapp user bot",
 "main": "index.js",
 "type": "module",
@@ -36,7 +37,6 @@
     "@vitalets/google-translate-api": "^9.2.0",
     "@xct007/tiktok-scraper": "^1.0.2",
     "@whiskeysockets/baileys": "git+https://github.com/DASTAGHIR/Baileys.git#master",
-    "@StarlightsTeam/Scraper": "github:StarlightsTeam/StarlightsTeam-Scraper",
     "acrcloud": "^1.4.0",
     "api-dylux": "^1.7.2",
     "awesome-phonenumber": "^2.68.0",
