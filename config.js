@@ -47,7 +47,7 @@ global.openai_org_id = 'HITjoN7H8pCwoncEB9e3fSyW'
 //💌------------------------------------------💌
 //CONFIG VARS. Do not touch them⚠️
 
-  global.vidcap = process.env.DL_MSG
+  global.vidcap = '`𝐌𝘂𝗵𝗮𝗺𝗺𝗮𝗱-𝐌𝐃`'
 
 
 //💌------------------------------------------💌
@@ -129,8 +129,8 @@ global.developer = 'https://wa.me/message/C3MHS72LLK3QG1' //contact
 
 
 //Sticker WM
-global.wm = '`𝐌𝘂𝗵𝗮𝗺𝗺𝗮𝗱-𝐌𝐃`'
-global.botname = '`𝐌𝘂𝗵𝗮𝗺𝗺𝗮𝗱-𝐌𝐃`'
+global.wm = '𝐌𝘂𝗵𝗮𝗺𝗺𝗮𝗱-𝐌𝐃'
+global.botname = '𝐌𝘂𝗵𝗮𝗺𝗺𝗮𝗱-𝐌𝐃'
 global.princebot = '`𝐌𝘂𝗵𝗮𝗺𝗺𝗮𝗱-𝐌𝐃`'
 global.packname = '𝒁𝒊𝙙𝒊𝒊-𝑫𝙚𝙘𝙚𝙣𝙩-𝕭𝐎𝐘'
 global.author = '🤍' 
